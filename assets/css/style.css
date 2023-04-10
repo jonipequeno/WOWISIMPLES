@@ -274,7 +274,7 @@ h6 {
 .navbar .dropdown ul a {
   padding: 10px 20px;
   font-size: 14px;
-  color: #2c4964;
+  color: #ff4b04;
 }
 
 .navbar .dropdown ul a i {
@@ -374,7 +374,7 @@ h6 {
 .navbar-mobile a {
   padding: 10px 20px;
   font-size: 15px;
-  color: #2c4964;
+  color: #ff4b04;
 }
 
 .navbar-mobile a:hover:before,
@@ -600,7 +600,7 @@ section {
 .about .content h3 {
   font-weight: 600;
   font-size: 32px;
-  color: #2c4964;
+  color: #ff4b04;
 }
 
 .about .content ul {
@@ -720,7 +720,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #2c4964;
+  color: #ff4b04;
   transition: ease-in-out 0.3s;
 }
 
@@ -857,7 +857,7 @@ section {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 45px;
-  color: #2c4964;
+  color: #ff4b04;
 }
 
 .testimonials .testimonial-item h4 {
@@ -1135,7 +1135,7 @@ section {
   padding: 20px 15px;
   font-size: 16px;
   font-weight: 600;
-  color: #2c4964;
+  color: #ff4b04;
   background: #f8f8f8;
 }
 
@@ -1300,7 +1300,7 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #2c4964;
+  color: #ff4b04;
 }
 
 .faq .faq-list a.collapsed:hover {
@@ -1341,7 +1341,7 @@ section {
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #2c4964;
+  color: #ff4b04;
   font-weight: 700;
   margin: 10px 0;
 }

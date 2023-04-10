@@ -518,11 +518,21 @@ h6 {
   #hero .hero-img img {
     width: 60%;
   }
+  .sites {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 575px) {
   #hero .hero-img img {
     width: 80%;
+  }
+  .sites {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
   }
 }
 
@@ -836,11 +846,7 @@ section {
   min-height: 400px;
 }
 
-.sites {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/

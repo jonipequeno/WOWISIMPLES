@@ -836,6 +836,11 @@ section {
   min-height: 400px;
 }
 
+.sites {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -1669,21 +1674,17 @@ section {
   text-decoration: none;
 }
 
-.sites{
+.sites {
   display: flex;
   justify-content: center;
-  
 }
 
-.sites1{
-  
+.sites1 {
   display: flex;
   justify-content: center;
-  
 }
 
-.sites2{
+.sites2 {
   display: flex;
   justify-content: center;
-  
 }

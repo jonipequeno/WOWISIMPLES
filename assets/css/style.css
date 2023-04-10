@@ -1668,3 +1668,22 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.sites{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.sites1{
+  
+  display: flex;
+  justify-content: center;
+  
+}
+
+.sites2{
+  display: flex;
+  justify-content: center;
+  
+}

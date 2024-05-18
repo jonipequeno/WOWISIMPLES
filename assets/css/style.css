@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -107,7 +107,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 /*--------------------------------------------------------------
@@ -116,7 +116,7 @@ h6 {
 .get-started-btn {
   margin-left: 30px;
   background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
-  color: #fff;
+  color: #242424;
   border-radius: 4px;
   padding: 8px 25px;
   white-space: nowrap;
@@ -127,7 +127,7 @@ h6 {
 }
 
 .get-started-btn:hover {
-  background: #111111;
+  background: #242424;
   color: #fff;
 }
 
@@ -405,7 +405,7 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   margin-top: 30px;
-  color: #fff;
+  color: #242424;
   background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   border: 2px solid #2ad001;
 }
@@ -467,7 +467,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -729,7 +729,7 @@ section {
 }
 
 .tabs .nav-link.active {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   color: #fff;
   border-color: #2ad001;
 }
@@ -860,7 +860,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1183,7 +1183,7 @@ section {
 }
 
 .pricing .featured {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 /*--------------------------------------------------------------
@@ -1278,7 +1278,7 @@ section {
   border-radius: 50px;
   width: 36px;
   height: 36px;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1430,7 +1430,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   border: 0;
   padding: 10px 32px;
   color: #fff;
@@ -1439,7 +1439,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 --------------------------------------------------------------*/
@@ -1471,7 +1471,7 @@ section {
   margin-top: 10px;
   border: 2px solid #2ad001;
   color: #020202;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 .cta .cta-btn:hover {
@@ -1567,7 +1567,7 @@ section {
 
 .blog .entry .entry-content .read-more a {
   display: inline-block;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   color: #fff;
   padding: 6px 20px;
   transition: 0.3s;
@@ -1576,7 +1576,7 @@ section {
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 .blog .entry .entry-content h3 {
@@ -1841,7 +1841,7 @@ section {
 
 .blog .blog-pagination li.active,
 .blog .blog-pagination li:hover {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 .blog .blog-pagination li.active a,
@@ -1892,7 +1892,7 @@ section {
   font-size: 16px;
   padding: 0 15px;
   margin: -1px;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1989,7 +1989,7 @@ section {
 .blog .sidebar .tags ul a:hover {
   color: #fff;
   border: 1px solid #2ad001;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 .blog .sidebar .tags ul a span {
@@ -2046,7 +2046,7 @@ section {
   display: block;
   width: 20px;
   height: 2px;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   bottom: 0;
   left: 0;
 }
@@ -2125,7 +2125,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -2133,7 +2133,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
 }
 
 #footer .credits {
@@ -2157,7 +2157,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #2ad001;
+ background-image: linear-gradient(to right, #2ad001, #19fe78, #88fe19, #01d046);
   color: #fff;
   text-decoration: none;
 }
